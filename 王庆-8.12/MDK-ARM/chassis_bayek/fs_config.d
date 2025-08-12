@@ -1,0 +1,10 @@
+chassis_bayek\fs_config.o: RTE\File_System\FS_Config.c
+chassis_bayek\fs_config.o: .\RTE\_chassis_bayek\RTE_Components.h
+chassis_bayek\fs_config.o: C:\Keil_v5\Arm\Packs\Keil\MDK-Middleware\7.12.0\FileSystem\Include\fs_config.h
+chassis_bayek\fs_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+chassis_bayek\fs_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+chassis_bayek\fs_config.o: C:\Keil_v5\Arm\Packs\Keil\MDK-Middleware\7.12.0\FileSystem\Include\rl_fs_lib.h
+chassis_bayek\fs_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+chassis_bayek\fs_config.o: C:\Keil_v5\Arm\Packs\Keil\MDK-Middleware\7.12.0\FileSystem\Include\rl_fs.h
+chassis_bayek\fs_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+chassis_bayek\fs_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

@@ -1,0 +1,81 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.34.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: qing penguin, Wuhan University, LIC=GE7DL-0PB68-24JSS-LCGE7-GH9E4-6X8S7
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.34.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.34.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.8.0
+Dialog DLL:      TCM.DLL V1.48.0.0
+ 
+<h2>Project:</h2>
+C:\workspace\RoboCon\chassis_bayek\MDK-ARM\chassis_bayek.uvprojx
+Project File Date:  08/12/2025
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'chassis_bayek'
+Note: source file 'C:\Keil_v5\Arm\Packs\Keil\ARM_Compiler\1.7.2\Source\EventRecorder.c' - object file renamed from 'chassis_bayek\EventRecorder.o' to 'chassis_bayek\eventrecorder_1.o'.
+compiling Buzzer_task.c...
+linking...
+Program Size: Code=13880 RO-data=604 RW-data=188 ZI-data=21036  
+FromELF: creating hex file...
+"chassis_bayek\chassis_bayek.axf" - 0 Error(s), 0 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                https://www.keil.com/pack/ARM.CMSIS.6.2.0.pack
+                ARM.CMSIS.6.2.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 6.1.1
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.ARM_Compiler.1.7.2.pack
+                Keil.ARM_Compiler.1.7.2
+                Keil ARM Compiler extensions for ARM Compiler 5 and ARM Compiler 6
+   * Component: Event Recorder Variant: DAP Version: 1.5.1
+   * Component: STDOUT Variant: EVR Version: 1.2.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F4xx_DFP.3.0.0.pack
+                Keil.STM32F4xx_DFP.3.0.0
+                STMicroelectronics STM32F4 Series Device Support
+   * Component: CubeMX Version: 1.0.0
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\Compiler
+  .\RTE\_chassis_bayek
+  C:\Keil_v5\Arm\Packs\ARM\CMSIS\6.2.0\CMSIS\Core\Include
+  C:\Keil_v5\Arm\Packs\Keil\ARM_Compiler\1.7.2\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:6.1.1
+      Include file:  CMSIS\Core\Include\tz_context.h
+
+   * Component: Keil.ARM Compiler::Compiler:Event Recorder:DAP:1.5.1
+      Include file:  Include\EventRecorder.h
+      Source file:   Source\EventRecorder.c
+      Include file:  Config\EventRecorderConf.h
+
+   * Component: Keil.ARM Compiler::Compiler:I/O:STDOUT:EVR:1.2.0
+      Source file:   Source\retarget_io.c
+
+   * Component: Keil::Device:CubeMX:1.0.0
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>
