@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvector_math.a CMakeFiles/vector_math.dir/tools/vector_math.c.o
+/usr/bin/ranlib libvector_math.a

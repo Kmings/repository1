@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/vector_example.dir/src/main.c.o -o vector_example  libvector_math.a -lm 

@@ -1,0 +1,4 @@
+/home/bayek/workspace/王庆-8.8-2/build/CMakeFiles/TOOLS_STATIC.dir
+/home/bayek/workspace/王庆-8.8-2/build/CMakeFiles/task8_8_2.dir
+/home/bayek/workspace/王庆-8.8-2/build/CMakeFiles/edit_cache.dir
+/home/bayek/workspace/王庆-8.8-2/build/CMakeFiles/rebuild_cache.dir

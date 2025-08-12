@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bayek/workspace/王庆-8.8-2/build",
+  "command": "/usr/bin/gcc  -I/home/bayek/workspace/王庆-8.8-2/inc -g -o CMakeFiles/TOOLS_STATIC.dir/tools/vector_math.c.o -c /home/bayek/workspace/王庆-8.8-2/tools/vector_math.c",
+  "file": "/home/bayek/workspace/王庆-8.8-2/tools/vector_math.c"
+},
+{
+  "directory": "/home/bayek/workspace/王庆-8.8-2/build",
+  "command": "/usr/bin/gcc  -I/home/bayek/workspace/王庆-8.8-2/inc -g -o CMakeFiles/task8_8_2.dir/src/solve.c.o -c /home/bayek/workspace/王庆-8.8-2/src/solve.c",
+  "file": "/home/bayek/workspace/王庆-8.8-2/src/solve.c"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/task8_8_2.dir/src/solve.c.o -o task8_8_2  libTOOLS_STATIC.a -lm 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTOOLS_STATIC.a CMakeFiles/TOOLS_STATIC.dir/tools/method1.c.o CMakeFiles/TOOLS_STATIC.dir/tools/method2.c.o CMakeFiles/TOOLS_STATIC.dir/tools/method3.c.o
+/usr/bin/ranlib libTOOLS_STATIC.a

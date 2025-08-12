@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/bayek/workspace/王庆-8.8/build",
+  "command": "/usr/bin/gcc  -I/home/bayek/workspace/王庆-8.8/inc -g -o CMakeFiles/TOOLS_STATIC.dir/tools/method1.c.o -c /home/bayek/workspace/王庆-8.8/tools/method1.c",
+  "file": "/home/bayek/workspace/王庆-8.8/tools/method1.c"
+},
+{
+  "directory": "/home/bayek/workspace/王庆-8.8/build",
+  "command": "/usr/bin/gcc  -I/home/bayek/workspace/王庆-8.8/inc -g -o CMakeFiles/TOOLS_STATIC.dir/tools/method2.c.o -c /home/bayek/workspace/王庆-8.8/tools/method2.c",
+  "file": "/home/bayek/workspace/王庆-8.8/tools/method2.c"
+},
+{
+  "directory": "/home/bayek/workspace/王庆-8.8/build",
+  "command": "/usr/bin/gcc  -I/home/bayek/workspace/王庆-8.8/inc -g -o CMakeFiles/TOOLS_STATIC.dir/tools/method3.c.o -c /home/bayek/workspace/王庆-8.8/tools/method3.c",
+  "file": "/home/bayek/workspace/王庆-8.8/tools/method3.c"
+},
+{
+  "directory": "/home/bayek/workspace/王庆-8.8/build",
+  "command": "/usr/bin/gcc  -I/home/bayek/workspace/王庆-8.8/inc -g -o CMakeFiles/task8_8.dir/src/main.c.o -c /home/bayek/workspace/王庆-8.8/src/main.c",
+  "file": "/home/bayek/workspace/王庆-8.8/src/main.c"
+}
+]

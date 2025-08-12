@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/task8_8_3.dir/src/solve.c.o -o task8_8_3 

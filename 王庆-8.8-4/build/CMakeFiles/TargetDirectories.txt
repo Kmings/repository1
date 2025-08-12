@@ -1,0 +1,3 @@
+/home/bayek/workspace/王庆-8.8-4/build/CMakeFiles/task8_8_4.dir
+/home/bayek/workspace/王庆-8.8-4/build/CMakeFiles/edit_cache.dir
+/home/bayek/workspace/王庆-8.8-4/build/CMakeFiles/rebuild_cache.dir
